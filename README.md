@@ -22,3 +22,9 @@ Upcoming tech events and tech conferences collected in one clear overview.
 
 # Authors
 - Ben Kemp - Initial Work - https://ontechedge.com
+
+# Support
+Reach out to us at one of the following places!
+- Website at [OnTechEdge](https://ontechedge.com)
+- Twitter at [@InnovationJam](https://twitter.com/innovationjam)
+- Reddit at [OnTechEdge](https://www.reddit.com/r/OnTechEdge/)
