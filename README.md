@@ -11,11 +11,11 @@ Upcoming tech events and tech conferences collected in one clear overview.
 
 # February 2020
 
-| Date          | Description                                | Name                     | Link                          |
-| ------------- | ------------------------------------------ | ------------------------ | ----------------------------- |
-| February 4-6  | Conference for web frontend developers     | c't <webdev>             | https://ctwebdev.de/          |
-| February 5-7  | JavaScript Conference                      | JSConf Hawai'i           | https://www.jsconfhi.com/     |
-| February 10-11| Web development,APIs and developer tooling | Flashback Conference     | https://cfe.dev/events/flashback-conference-2020/ |
+| Date          | Description                                | Name                     | 
+| ------------- | ------------------------------------------ | ------------------------ | 
+| February 4-6  | Conference for web frontend developers     | [c't <webdev>](https://ctwebdev.de/) |
+| February 5-7  | JavaScript Conference                      | [JSConf Hawai'i](https://www.jsconfhi.com/) |
+| February 10-11| Web development,APIs and developer tooling | [Flashback Conference](https://cfe.dev/events/flashback-conference-2020/) |
 
 # Authors
 - Ben Kemp - Initial Work - https://ontechedge.com
