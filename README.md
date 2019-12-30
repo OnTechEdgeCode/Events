@@ -26,10 +26,10 @@ Upcoming tech events and tech conferences collected in one clear overview.
 | February 29   | Angular Conference                         | [ng India](https://www.ng-ind.com/?utm_source=OnTechEdge) |
 
 # Authors
-- Ben Kemp - Initial Work - https://ontechedge.com
+- Ben Kemp - Initial Work - [OnTechEdge](https://ontechedge.com/?utm_source=github)
 
 # Support
 Reach out to us at one of the following places!
-- Website at [OnTechEdge](https://ontechedge.com)
+- Website at [OnTechEdge](https://ontechedge.com/?utm_source=github)
 - Twitter at [@InnovationJam](https://twitter.com/innovationjam)
 - Reddit at [OnTechEdge](https://www.reddit.com/r/OnTechEdge/)
