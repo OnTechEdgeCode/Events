@@ -23,6 +23,7 @@ Upcoming tech events and tech conferences collected in one clear overview.
 | February 20-21| Vue.js Conference Amsterdam                | [Vue.js Amsterdam](https://www.vuejs.amsterdam/?utm_source=OnTechEdge) |
 | February 23-26| Event for Code inspiration                 | [AgentConf](https://agent.sh/?utm_source=OnTechEdge) |
 | February 27-28| React developers conference                | [ReactConf AU](https://reactconfau.com/?utm_source=OnTechEdge) |
+| February 29   | Angular Conference                         | [ng India](https://www.ng-ind.com/?utm_source=OnTechEdge) |
 
 # Authors
 - Ben Kemp - Initial Work - https://ontechedge.com
